@@ -7,3 +7,9 @@ An (opinionated) set of tools for the new data scientist.
 2. [Background Mathematics](#math)
 4. [Programming](#programming)
 5. [Visualization](#visualization)
+
+
+<a name="math"/>
+
+## Linear Algebra
+http://joshua.smcvt.edu/linearalgebra/
