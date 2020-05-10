@@ -3,7 +3,8 @@ An (opinionated) set of tools for the new data scientist.
 
 ## Table of Contents
 
-1. [Introduction](#intro)
+<a name="intro"/>
+1. [Motivation](#intro)
 
 My brother is starting a graduate program in data science, and over the course
 of discussing what he needs to know before beginning, I realized compiling it
