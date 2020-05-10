@@ -7,6 +7,7 @@ An (opinionated) set of tools for the new data scientist.
 
 1. [Motivation](#intro)
 
+## Why I Started This Guide
 My brother is starting a graduate program in data science, and over the course
 of discussing what he needs to know before beginning, I realized compiling it
 all into a living document makes more sense. This guide is the result of that
