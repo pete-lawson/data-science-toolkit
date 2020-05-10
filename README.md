@@ -30,10 +30,13 @@ guide favors open tools, and the content supports rigor and reproducibility. Thi
 This guide is themed along major topics, such as background mathematics, programming, visualization, data science tools, and reproducible research. Each topic breaks down into subtopics, and each subtopic is ordered in ascending order of rigor. In this way, by moving deeper through the resources in a subtopic, it is possible to gain an increasingly deeper understanding of the subtopic.
 
 <a name="math"/>
+
 ## Mathematics
 
 ### Linear Algebra
 http://joshua.smcvt.edu/linearalgebra/
+
 ### Statistics
+
 ### Probability
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
