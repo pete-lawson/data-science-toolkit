@@ -16,7 +16,7 @@ An (opinionated) set of tools for the new data scientist.
 <a name="intro"/>
 
 ## Introduction
-![Data Science Venn Diagram](/figures/data_scientist_venn_diagram.png)
+<img src="/figures/data_scientist/venn_diagram.png" alt="Data Science Venn Diagram" width="300">
 
 ## Why I Started This Guide
 My brother is in the process of beginning a graduate program in data science,
