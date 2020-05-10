@@ -17,7 +17,7 @@ An (opinionated) set of tools for the new data scientist.
 
 ## Introduction
 
-<img src="/https://github.com/pete-lawson/data-science-toolkit/blob/master/figures/data_scientist_venn_diagram.png" alt="Data Science Venn Diagram" width="300">
+<img src="https://github.com/pete-lawson/data-science-toolkit/blob/master/figures/data_scientist_venn_diagram.png" alt="Data Science Venn Diagram" width="300">
 
 ## Why I Started This Guide
 My brother is in the process of beginning a graduate program in data science,
