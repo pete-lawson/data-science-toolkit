@@ -19,9 +19,10 @@ and over the course of discussing what he needs to know before beginning, I
 realized compiling it all into a living document makes more sense. This guide is
 the result of that discussion, incorporating all of the tools and resources I
 have found helpful over the course of a PhD in a data science related field. The
-focus of the guide is on scientific rigor, reproducibility, and clarity of
-communication in the field of data science, but directed towards a novice in the
-field.
+guide favors open tools, and the content supports rigor and reproducibility. This guide assumes minimal background knowledge in data science.
+
+## How to Use This Guide
+This guide is themed along major topics, such as necessary background mathematics, programming, visualization, data science tools, and reproducible research. Each topic breaks down into subtopics, and each subtopic is ordered in ascending order of rigor. In this way, by moving deeper through the resources in a subtopic, it is possible to gain an increasingly deeper understanding of the subtopic.
 
 <a name="math"/>
 
