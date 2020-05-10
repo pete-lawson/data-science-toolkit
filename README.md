@@ -7,6 +7,8 @@ An (opinionated) set of tools for the new data scientist.
 2. [Background Mathematics](#math)
 4. [Programming](#programming)
 5. [Visualization](#visualization)
+6. [The Data Scientists' Toolkit](#toolkit)
+7. [Reproducibility](#visualization)
 
 
 <a name="intro"/>
