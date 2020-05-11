@@ -16,6 +16,7 @@ An (opinionated) set of tools for the new data scientist.
 <a name="intro"/>
 
 ## Introduction
+Data science encompasses multiple domains, and requires expertise across those domains. The enhancement of Drew Conway's Data Science venn diagram by Stephan Kolassa 
 
 <img src="https://github.com/pete-lawson/data-science-toolkit/blob/master/figures/data_scientist_venn_diagram.png" alt="Data Science Venn Diagram" width="500">
 
