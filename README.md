@@ -26,7 +26,7 @@ curate tools and resources across these domains to help the new data scientist.
 
 Source: [Stephan Kolassa - Stack Overflow](https://datascience.stackexchange.com/questions/2403/data-science-without-knowledge-of-a-specific-topic-is-it-worth-pursuing-as-a-ca)
 
-## Why I Started This Guide
+### Why I Started This Guide
 My brother is in the process of beginning a graduate program in data science,
 and over the course of discussing what he needs to know before beginning, I
 realized compiling it all into a living document makes more sense. This guide is
@@ -34,7 +34,7 @@ the result of that discussion, incorporating all of the tools and resources I
 have found helpful over the course of a PhD in a data science related field. The
 guide favors open tools, and the content supports rigor and reproducibility. This guide assumes minimal background knowledge in data science.
 
-## How to Use This Guide
+### How to Use This Guide
 This guide is themed along major topics, such as background mathematics, programming, visualization, data science tools, and reproducible research. Each topic breaks down into subtopics, and each subtopic is ordered in ascending order of rigor. In this way, by moving deeper through the resources in a subtopic, it is possible to gain an increasingly deeper understanding of the subtopic.
 
 <a name="math"/>
