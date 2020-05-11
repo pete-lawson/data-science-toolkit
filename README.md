@@ -17,7 +17,7 @@ An (opinionated) set of tools for the new data scientist.
 
 ## Introduction
 Data science encompasses multiple domains, and requires expertise across those
-domains. The enhancement of Drew Conway's Data Science venn diagram by Stephan
+domains. The enhancement of Drew Conway's Data Science Venn diagram by Stephan
 Kolassa makes this point clear, visually depicting the need for expertise at the
 intersection of communication, statistics, programming, and business. This guide
 attempts to curate tools and resources across these domains to help guide new
