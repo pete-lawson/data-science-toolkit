@@ -1,5 +1,5 @@
 # The Data Science Toolkit
-An (opinionated) set of tools for the new data scientist. 
+An (opinionated) set of tools and resources for the new data scientist. 
 
 [![GitHub Follow](https://img.shields.io/github/followers/pete-lawson)](https://github.com/pete-lawson)
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -16,7 +16,7 @@ An (opinionated) set of tools for the new data scientist.
 <a name="intro"/>
 
 ## Introduction
-Data science encompasses multiple domains, and requires expertise across those
+Data science encompasses multiple domains and requires expertise across those
 domains. This enhancement of Drew Conway's Data Science Venn diagram by Stephan
 Kolassa makes this point clear, visually depicting the need for expertise at the
 intersection of communication, statistics, programming, and business. This guide
