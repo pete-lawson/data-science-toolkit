@@ -43,6 +43,7 @@ This guide is themed along major topics, such as background mathematics, program
 ## Mathematics
 
 ### Linear Algebra
+[MIT Open Courseware Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 http://joshua.smcvt.edu/linearalgebra/
 
 ### Statistics
