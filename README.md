@@ -43,7 +43,7 @@ This guide is themed along major topics, such as background mathematics, program
 ## Mathematics
 
 ### Linear Algebra
-[MIT Open Courseware Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+* [MIT Open Courseware Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): Gilbert Strang's provides one the most thorough, insightful, and charming introductions to linear algebra. This should be a necessary stop on your journey through data science if you have the time.
 http://joshua.smcvt.edu/linearalgebra/
 
 ### Statistics
