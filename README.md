@@ -45,7 +45,7 @@ This guide is themed along major topics, such as background mathematics, program
 ### Linear Algebra
 * [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): An indispensable short video series (the entire series is no more than two hours) that provides a deep intuition for the why of linear algebra using a geometric approach. Watch this video series to gain a better understanding of how linear algebra works using well animated concise videos. This video series is a necessary precursor to any subsequent resources on linear algebra.
 * [Linear Algebra - Khan Academy](https://www.khanacademy.org/math/linear-algebra): Khan academy's linear algebra lessons are especially clear, and provide a nice intermediate introduction to linear algebra.
-* [Linear Algebra - MIT Open Courseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): Gilbert Strang's provides one of the most thorough, insightful, and charming introductions to linear algebra. This should be a necessary stop on your journey through data science if you have the time.
+* [Linear Algebra - MIT Open Courseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): Gilbert Strang's MIT course provides one of the most thorough, insightful, and charming introductions to linear algebra. This should be a necessary stop on your journey through data science if you have the time.
 * [Linear Algebra - Jim Hefferson](http://joshua.smcvt.edu/linearalgebra/): An free linear algebra textbook that provides a uniquely clear introduction to linear algebra. 
 
 
