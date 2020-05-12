@@ -54,6 +54,7 @@ This guide is themed along major topics, such as background mathematics, program
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 * [Think Bayes - Bayesian Statistics Made Simple](https://greenteapress.com/wp/think-bayes/) 
 * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/): Intro to Statistical Learning (ISL)'s big brother. Reviews the same concepts as ISL, but with significantly more rigor and depth. This is not easy reading, but is an excellent reference.
+* [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/):
 
 <a name="tools"/>
 
