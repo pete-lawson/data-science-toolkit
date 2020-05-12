@@ -9,7 +9,7 @@ An (opinionated) set of tools and resources for the new data scientist.
 2. [Background Mathematics](#math)
 4. [Programming](#programming)
 5. [Visualization](#visualization)
-6. [The Data Scientists' Toolkit](#toolkit)
+6. [Tools](#tools)
 7. [Reproducibility](#repro)
 
 
@@ -53,6 +53,10 @@ This guide is themed along major topics, such as background mathematics, program
 * [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 ### Probability
+
+<a name="tools"/>
+
+## Tools
 
 <a name="repro"/>
 
