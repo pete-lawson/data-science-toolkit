@@ -43,7 +43,7 @@ This guide is themed along major topics, such as background mathematics, program
 ## Mathematics
 
 ### Linear Algebra
-* [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): An indispensable short video series (the entire series is no more than two hours) that provides a deep intuition for the why of linear algebra using a geometric approach. Watch this video series to gain a better understanding of why linear algebra is necessary, and why it works. 
+* [Essence of Linear Algebra - 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab): An indispensable short video series (the entire series is no more than two hours) that provides a deep intuition for the why of linear algebra using a geometric approach. Watch this video series to gain a better understanding of how the various features of linear algebra, such as matrices, determinants, eigenvectors and eignvalues, are related, and what they do.
 * [Linear Algebra - MIT Open Courseware](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/): Gilbert Strang's provides one of the most thorough, insightful, and charming introductions to linear algebra. This should be a necessary stop on your journey through data science if you have the time.
 http://joshua.smcvt.edu/linearalgebra/
 
