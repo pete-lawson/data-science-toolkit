@@ -49,10 +49,9 @@ This guide is themed along major topics, such as background mathematics, program
 * [Linear Algebra - Jim Hefferson](http://joshua.smcvt.edu/linearalgebra/): An free linear algebra textbook that provides a uniquely clear introduction to linear algebra. 
 
 
-### Statistics
+### Statistics and Probability
 * [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
-
-### Probability
+* [Probabilistic Programming and Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
 
 <a name="tools"/>
 
