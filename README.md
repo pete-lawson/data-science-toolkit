@@ -52,6 +52,7 @@ This guide is themed along major topics, such as background mathematics, program
 ### Statistics and Probability
 * [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 * [Probabilistic Programming and Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
+* [Think Bayes - Bayesian Statistics Made Simple](https://greenteapress.com/wp/think-bayes/) 
 
 <a name="tools"/>
 
