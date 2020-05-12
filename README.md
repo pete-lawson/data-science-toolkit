@@ -59,6 +59,10 @@ This guide is themed along major topics, such as background mathematics, program
 
 ## Tools
 
+### Editors
+
+* [Evil Mode: Or, How I learned to Stop Worrying and Love Emacs](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
+
 <a name="repro"/>
 
 ## Reproducibility
