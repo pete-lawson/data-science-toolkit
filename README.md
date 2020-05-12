@@ -10,7 +10,7 @@ An (opinionated) set of tools and resources for the new data scientist.
 4. [Programming](#programming)
 5. [Visualization](#visualization)
 6. [The Data Scientists' Toolkit](#toolkit)
-7. [Reproducibility](#visualization)
+7. [Reproducibility](#repro)
 
 
 <a name="intro"/>
@@ -53,8 +53,11 @@ This guide is themed along major topics, such as background mathematics, program
 * [An Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/)
 
 ### Probability
-<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
+
+<a name="repro"/>
 
 ## Reproducibility
 
 * [Cookiecutter](https://github.com/cookiecutter/cookiecutter) is a command-line utility that creates new boilerplate projects from cookiecutters (project templates). A project template comprises a directory skeleton with boilerplate code, plaintext documentation, and supporting files populated by a user-created template. Cookiecutters are language and domain agnostic; they can contain templates for any plaintext files, including, but not limited to, markdown READMEs, code scripts in any language, Makefiles for building a project, and requirements files for managing project dependencies. Cookiecutters are best used at the beginning of a data science project to encourage consistent documentation and meaningful project structure.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>
