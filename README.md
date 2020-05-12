@@ -36,7 +36,7 @@ have found helpful over the course of a PhD in a data science related field. The
 guide favors open tools, and the content supports rigor and reproducibility. This guide assumes minimal background knowledge in data science.
 
 ### How to Use This Guide
-This guide is themed along major topics, such as background mathematics, programming, visualization, data science tools, and reproducible research. Each topic breaks down into subtopics, and each subtopic is ordered in ascending order of rigor. In this way, by moving deeper through the resources in a subtopic, it is possible to gain an increasingly deeper understanding of the subtopic.
+This guide is themed along major topics, such as background mathematics, programming, visualization, data science tools, and reproducible research. Each topic breaks down into subtopics, and each subtopic is ordered in ascending order of rigor. In this way, by moving deeper through the resources in a subtopic, it is possible to gain an increasingly deeper understanding of the subtopic. Entries with an asterisk (**&ast;**) are not openly accessible (generally a textbook without an open PDF) but have been included due to their perceived value. Hopefully in these cases you can find them through an academic library or through a friend. 
 
 <a name="math"/>
 
