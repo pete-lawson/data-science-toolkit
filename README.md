@@ -61,6 +61,13 @@ This guide is themed along major topics, such as background mathematics, program
 
 ## Tools
 
+### Versioning Control (Git/Github)
+
+For its ubiquity I am focusing on Git and its counterpart for hosting Git repositories online, Github.  
+
+* [Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV) is a quick, clear, and enthusiastic introduction to Git and Github. It uses a poem as a motivating example rather than code, so you won't get bogged down in technical particularities. Instead it delivers the basics of Git in a fun way. Great for someone who has never used versioning control before and needs a primer.
+
+
 ### Editors
 
 * [Evil Mode: Or, How I learned to Stop Worrying and Love Emacs](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
