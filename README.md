@@ -69,7 +69,7 @@ For its ubiquity I am focusing on Git and its counterpart for hosting Git reposi
 
 
 ### Editors
-
+Choosing the right editor and IDE (integrated development environment) are the first step into becoming a data science. Your editor is a deeply personnel choice (the ongoing flame war between the Emacs and Vim editors is evidence of this). I am going to advocate exclusively for Emacs as both editor and IDE (I did say this is an opinionated guide).
 * [Evil Mode: Or, How I learned to Stop Worrying and Love Emacs](https://www.youtube.com/watch?v=JWD1Fpdd4Pc)
 
 <a name="repro"/>
