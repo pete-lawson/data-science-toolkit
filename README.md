@@ -72,6 +72,10 @@ For its ubiquity I am focusing on Git and its counterpart for hosting Git reposi
 
 ### Editors
 Choosing the right editor and IDE (integrated development environment) are the first step into becoming a data science. Your editor is a deeply personnel choice (the ongoing flame war between the Emacs and Vim editors are evidence of this). For this guide I take the controversial position of advocating exclusively for Emacs as both editor and IDE (I did say this is an opinionated guide).
+
+#### Vim
+Wait? Didn't you just say you advocate exclusively for Emacs? So why are we talking about Vim? Bear with me, I'm getting there. Vim is a terminal based text modal editor. Modal means you switch between a command mode (for entering commands) and a text mode, for inputting text. Vim's main power lies in its keyboard shortcuts and powerful search and replace, which together allow you to program at lightning speed. Vim is also fairly ubiquitous, you will find it, or its precursor VI, on almost every Unix based system. So if you are logging int to a server you've never used you will still feel comfortably at home in your editor.
+
 * [GNU Emacs](https://www.gnu.org/software/emacs/)
 * [Evil Mode: Or, How I learned to Stop Worrying and Love Emacs](https://www.youtube.com/watch?v=JWD1Fpdd4Pc) This a motivating perspective from a software engineer who switched from Vim to Emacs, and mirrors my own philosophy, which is Vim is a better editor, and Emacs is a better everything else, so why not combine them? Which brings me to my next recommendation:
 * [Spacemacs](https://www.spacemacs.org/) Spacemacs is a community-driven Emacs distribution, pre-configured with a number of powerful packages and tools. With Evil mode it provides deep integration of Vim keybindings and modal editing into Emacs. Try starting with Spacemacs, but don't use it as a crutch. Think of it as a preview of all the Emacs packages you may want to use. Eventually you will want to configure Emacs yourself, and you can use what you love in Spacemacs to guide your own configuration.
